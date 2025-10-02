@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Mijn startniveau is de blauwe piste
 
   #### Je focus:
-  Ik zal me focussen op de surface plane
+  Ik zal me focussen op de responssive
  
 </details>
 
@@ -37,15 +37,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-  <a href="https://www.apple.com/shop/buy-iphone target="_blank">
+  <a href="https://limitedresell.com/nl target="_blank>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/SHOP.jpg" width="375px" alt="omschrijving van de pagina">
+ 
+  De eerste pagina is de homepagina van de website
+  <img src="readme-images/home" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/IPHONE.jpg" width="375px" alt="omschrijving van de pagina">
+  
+  De tweede pagina is de productpagina van de website 
+  <img src="readme-images/product.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -128,11 +130,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Zakaria        | Quincy             | Beyzanur      | Quinten          | Ilias
+  | Flexbox        | position sticky    | positionering | figcaption       | Afbeeldingen
+  |                |                    | hamburgermenu |                  |
+  |                |                    |               |
+  | ...            | ...                | ...           | ...              |
 
 
   ### Verslag van meeting
